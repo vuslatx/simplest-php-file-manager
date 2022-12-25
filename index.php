@@ -5,7 +5,7 @@ session_start();
 
 // Set the login credentials
 $username = "admin";
-$password = "44452";
+$password = "pass";
 
 // Check if the login form has been submitted
 if (isset($_POST['login'])) {
